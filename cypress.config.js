@@ -8,5 +8,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // aqui você adiciona event listeners se precisar
     },
+    video: true,
   },
 });
